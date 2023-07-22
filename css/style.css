@@ -1,0 +1,19 @@
+.Light-gray{
+    background-color: hsl(212, 45%, 89%);
+}
+
+.white{
+    background-color: hsl(0, 0%, 100%);
+}
+
+.width-white-div{
+    width: 240px;
+}
+
+.height-white-div{
+    height: 370px;
+}
+.border-radius-white-div{
+    border:0px solid; 
+    border-radius: 15px;
+}
